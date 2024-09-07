@@ -20,5 +20,6 @@ Before running the application, ensure you have the following:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/khmergpt.git
+   git clone https://github.com/reachsak/khmergpt.git
    cd khmergpt
+   streamlit run app.py
