@@ -5,12 +5,12 @@ from azure.core.exceptions import HttpResponseError
 from groq import Groq
 
 # Azure Speech configuration
-speech_key = "5630d19384fc422f88c86b91e2354aee"
+speech_key = ""
 speech_region = "eastus"
-translation_key = "6e3b1be1232b4d76ae414452a6da63f0"
+translation_key = ""
 translation_endpoint = "https://api.cognitive.microsofttranslator.com/"
 translation_region = "eastus"
-llm_api_key = "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"
+llm_api_key = ""
 
 # Step 1: Record voice in Khmer
 def record_voice():
