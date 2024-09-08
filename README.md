@@ -9,6 +9,10 @@ Welcome to **KhmerGPT**, a chatbot designed to understand and respond in the Khm
 - **Text-to-Speech (TTS)**: Converts chatbot text responses into speech using Microsoft's Speech API.
 - **Streamlit Web App**: Provides a user-friendly interface to interact with the chatbot.
 
+[![Watch the demo video](https://img.youtube.com/vi/0ZBk8EBw6D0/0.jpg)](https://www.youtube.com/watch?v=0ZBk8EBw6D0)
+
+Click the image above to watch a demo of KhmerGPT on YouTube!
+
 ## Prerequisites
 Before running the application, ensure you have the following:
 
